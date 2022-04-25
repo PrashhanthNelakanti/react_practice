@@ -1,0 +1,19 @@
+{
+  "contacts": [
+    {
+      "id": "9a47e7db-4c20-480a-b720-13f9a42231cb",
+      "name": "manassvvin",
+      "email": "manassvvin@gmail.com"
+    },
+    {
+      "id": "b175d9bc-c67f-46a3-90fa-cdf55e5d79c2",
+      "name": "jenkins",
+      "email": "shekerS@gmail.com"
+    },
+    {
+      "id": "9529b97e-c05e-48a1-bd8c-ea0ebd8ee4f5",
+      "name": "aws_elasticBean_deployment",
+      "email": "drwn123@gmail.com"
+    }
+  ]
+}
